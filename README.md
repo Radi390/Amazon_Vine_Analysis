@@ -14,12 +14,16 @@ Finally, the number of five to one-star reviews counted for each paid and organi
 - 107 Vine reviews follow our criteria for valuable reviews.
 - Fifty-six reviews are 5-stars, 32 are four-star, 16 are three-star, two are two-star, and one is one star.
 - In vine reviews, 52.33 % of reviews are five-star.
-- ![This is an image](/PaidNumbers.jpg)
+
+![This is an image](/PaidNumbers.jpg)
 
 - Thirty-nine thousand eight hundred sixty-nine organic reviews follow our criteria for valuable reviews. 
 - Twenty-one thousand five are five-stars, 7384 are four-stars, 3744 are three-stars, 2412 are two-star, and 5324 are one-star.
 - In organic reviews, 52.68 % of reviews are five-star.
-- ![This is an image](/OrganicNumbers.jpg)
+
+![This is an image](/OrganicNumbers.jpg)
+
+
 ## Summary
 
 ### Results
