@@ -19,12 +19,12 @@ Finally, the number of five to one-star reviews counted for each paid and organi
 - Thirty-nine thousand eight hundred sixty-nine organic reviews follow our criteria for valuable reviews. 
 - Twenty-one thousand five are five-stars, 7384 are four-stars, 3744 are three-stars, 2412 are two-star, and 5324 are one-star.
 - In organic reviews, 52.68 % of reviews are five-star.
-![This is an image](/OrganicNumbers.jpg)
+- ![This is an image](/OrganicNumbers.jpg)
 ## Summary
 
 ### Results
 
-![This is an image](/Organic_vs_Paid.jpg)
+![This is an image](/Paid_vs_Organic.jpg)
 
 ### Conclusion
 In determination, Opistie of our expectations, there was no meaningful difference in the percentage of five-star reviews between Vine vs. organic reviews. However, The bias we have expected is located in Low-rated reviews. For the Vine program, only 2.8% of reviews are one or two stars. However, this number for organic reviews is 18.52%. Furthermore, 29.9% of the Vine reviews are four-star. On the other hand, organic reviews are only 18.52%.
